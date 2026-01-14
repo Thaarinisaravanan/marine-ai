@@ -1,6 +1,7 @@
 import { Header } from "@/components/dashboard/Header";
 import { HeroSection } from "@/components/dashboard/HeroSection";
 import { MonitoringGrid } from "@/components/dashboard/MonitoringGrid";
+import { HazardAssessmentPanel } from "@/components/dashboard/HazardAssessmentPanel";
 import { EventsPanel } from "@/components/dashboard/EventsPanel";
 
 const Index = () => {
@@ -11,6 +12,12 @@ const Index = () => {
       <main className="container py-8">
         <HeroSection />
         <MonitoringGrid />
+        
+        {/* AI Hazard Assessment Section */}
+        <section className="mb-8">
+          <HazardAssessmentPanel />
+        </section>
+        
         <EventsPanel />
       </main>
 
