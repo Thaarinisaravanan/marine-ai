@@ -1,16 +1,16 @@
 ## Objective of the Project
 
-To develop a system that solves a specific problem
+-To develop a system that solves a specific problem
 
-To reduce manual work
+-To reduce manual work
 
-To improve accuracy and efficiency
+-To improve accuracy and efficiency
 
 ## Problem Statement
 
-Existing system drawbacks
+-Existing system drawbacks
 
-Issues like time consumption, errors, lack of automation
+-Issues like time consumption, errors, lack of automation
 
 ## What technologies are used for this project?
 
@@ -24,27 +24,25 @@ This project is built with:
 
  ## Advantages
 
-Saves time
+-Saves time
 
-Reduces human error
+-Reduces human error
 
-Cost-effective
+-Cost-effective
 
-Easy maintenance
+-Easy maintenance
 
 ## Applications
 
-Can be used in colleges / offices / industries
+-Can be used in colleges / offices / industries
 
-Useful for real-world scenarios
+-Useful for real-world scenarios
 
 ## Future Enhancements
 
-Add mobile app support
+-Add mobile app support
 
-Improve UI
+-Use AI / ML features
 
-Use AI / ML features
-
-Cloud deployment
+-Cloud deployment
 
